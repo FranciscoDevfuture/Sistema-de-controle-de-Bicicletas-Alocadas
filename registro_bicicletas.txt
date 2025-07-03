@@ -1,0 +1,5 @@
+nome: Franco
+login: 45
+vaga: 63
+hora_entrada: 2025-07-03 15:55:53
+---
